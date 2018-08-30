@@ -1,2 +1,2 @@
 # no-rules-checkers
-Spring 2017 Hackathon Project
+Completed with Emily Heckel (github: eheckel) as part of a class hackathon in Spring 2017. 
